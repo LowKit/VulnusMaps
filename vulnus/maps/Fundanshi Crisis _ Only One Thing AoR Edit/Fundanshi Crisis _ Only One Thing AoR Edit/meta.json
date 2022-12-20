@@ -1,0 +1,14 @@
+{
+    "_version": 1,
+    "_difficulties": [
+        "van.json",
+        "dyamo.json",
+        "lowkit.json"
+    ],
+    "_mappers": [
+        "vannasr,LowKit,DyamoDash"
+    ],
+    "_title": "Only One Thing AoR Edit",
+    "_artist": "Fundanshi Crisis",
+    "_music": "y2mate.com _ Fundanshi Crisis  Only One Thing AoR Edit.mp3"
+}

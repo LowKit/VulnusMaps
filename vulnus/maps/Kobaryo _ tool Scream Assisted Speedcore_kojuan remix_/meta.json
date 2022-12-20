@@ -1,0 +1,12 @@
+{
+    "_version": 1,
+    "_difficulties": [
+        "ingame.json","lowkit.json"
+    ],
+    "_mappers": [
+        "Haxagon","LowKit"
+    ],
+    "_title": "scream assisted speedcore ( KoJuan remix)",
+    "_artist": "Kobaryo ft KoJuan",
+    "_music": "tool_assisted_speedcore_epic_cover.mp3"
+}

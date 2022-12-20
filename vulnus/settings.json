@@ -1,0 +1,51 @@
+{
+    "DebugEnabled": false,
+    "NoLua": false,
+    "ScoreType": 0,
+    "CameraMode": 0,
+    "Bloom": 2,
+    "CursorTrail": false,
+    "DriftEnabled": true,
+    "Absolute": false,
+    "GridVisible": false,
+    "ConstantAR": true,
+    "Offset": -0.028,
+    "Sensitivity": 1.0,
+    "ApproachDistance": 35.0,
+    "ApproachTime": 1.0,
+    "MenuMusic": false,
+    "HitEnabled": true,
+    "MissEnabled": false,
+    "ParticlesEnabled": false,
+    "MusicVolume": 1.0,
+    "MenuVolume": 0.2,
+    "HitVolume": 1.6,
+    "MissVolume": 2.0,
+    "DeathVolume": 2.0,
+    "ClickVolume": 0.5,
+    "CurrentCursor": "customcursor8.png",
+    "CurrentNote": "Default",
+    "CurrentHit": "Default",
+    "CurrentMiss": "yaaaaaa.mp3",
+    "CurrentDeath": "Default",
+    "CursorColor": {
+        "R": 255,
+        "G": 255,
+        "B": 255,
+        "A": 255
+    },
+    "NoteColors": [
+        {
+            "R": 183,
+            "G": 233,
+            "B": 233,
+            "A": 255
+        },
+        {
+            "R": 226,
+            "G": 117,
+            "B": 138,
+            "A": 255
+        }
+    ]
+}
